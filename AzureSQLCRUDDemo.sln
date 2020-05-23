@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureSQLCRUDDemo", "AzureSQLCRUDDemo\AzureSQLCRUDDemo.csproj", "{98EC0162-FC65-48ED-A42B-FA9D82E263EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98EC0162-FC65-48ED-A42B-FA9D82E263EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98EC0162-FC65-48ED-A42B-FA9D82E263EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98EC0162-FC65-48ED-A42B-FA9D82E263EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98EC0162-FC65-48ED-A42B-FA9D82E263EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D223C73-C42E-4E61-A8DC-4921619EC7A4}
+	EndGlobalSection
+EndGlobal
